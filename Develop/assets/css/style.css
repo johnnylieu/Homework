@@ -86,17 +86,7 @@ content {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -135,7 +125,6 @@ content {
 }
 
 #search-engine-optimization {
-    max-height: 200px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
