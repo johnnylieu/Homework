@@ -31,3 +31,4 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 ## License
  
 * © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+* © UCSD Coding Bootcamp
