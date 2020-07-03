@@ -6,6 +6,7 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [History](#history)
 * [Credits](#credits)
 * [License](#license)
 
@@ -19,6 +20,9 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 ## Usage
 
 * This is strictly for educational purposes.
+
+## History
+https://github.com/johnnylieu/refactoring-Homework/commits/master/Develop
 
 ## Credits
 
