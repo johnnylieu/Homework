@@ -1,6 +1,6 @@
 # Refactoring Homework by Johnny L.
 
-In this activity, I am taking an existing html & CSS file from © 2019 Trilogy Education Services' respository and refactoring it to either meet a certain set of standards or implement a new technology. 
+In this activity, I am taking an existing html & CSS file from UCSD Coding Bootcamp's respository and refactoring it to either meet a certain set of standards or implement a new technology. 
 
 ## Table of Contents
 
