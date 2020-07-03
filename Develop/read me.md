@@ -1,4 +1,4 @@
-# Refactoring Homework by Johnny L.
+# Refactoring Homework by Johnny Lieu
 
 In this activity, I am taking an existing html & CSS file from UCSD Coding Bootcamp's respository and refactoring it to either meet a certain set of standards or implement a new technology. 
 
