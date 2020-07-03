@@ -1,8 +1,8 @@
-# Refactoring Homework
+# Refactoring Homework by Johnny L.
 
 In this activity, I am taking an existing html & CSS file from © 2019 Trilogy Education Services' respository and refactoring it to either meet a certain set of standards or implement a new technology. 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
