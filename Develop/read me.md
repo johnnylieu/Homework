@@ -22,7 +22,8 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 * This is strictly for educational purposes.
 
 ## History
-At first, I was going to create a section in this read me file for changes I made to the refactoring homework but I figured this would be better.
+
+At first, I was going to create a section in this read me file for changes I made to the refactoring homework but I figured this link would be better.
 https://github.com/johnnylieu/refactoring-Homework/commits/master/Develop
 
 ## Credits
