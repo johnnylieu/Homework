@@ -7,6 +7,7 @@ https://johnnylieu.github.io/refactoring-Homework/
 ## Table of Contents
 
 * [Installation](#installation)
+* [Summary](#summary)
 * [Usage](#usage)
 * [History](#history)
 * [Credits](#credits)
@@ -18,6 +19,10 @@ https://johnnylieu.github.io/refactoring-Homework/
 * Download my "Develop" folder in its entirety.
 * Using GitBash, navigate to this folder on your desktop.
 * Use command "code .." in GitBash without the quatations.
+
+## Summary
+
+This is the Horiseon client source code for its marketing site. Horiseon is the leading provider in the SEO field. Our clients know the importance of having a social media presence and we provide that for them.
 
 ## Usage
 
