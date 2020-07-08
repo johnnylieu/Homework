@@ -16,6 +16,7 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 * Download my "Develop" folder in its entirety.
 * Using GitBash, navigate to this folder on your desktop.
 * Use command "code .." in GitBash without the quatations.
+* visit https://johnnylieu.github.io/refactoring-Homework/ to view finished product.
 
 ## Usage
 
