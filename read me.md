@@ -2,6 +2,8 @@
 
 In this activity, I am taking an existing html & CSS file from UCSD Coding Bootcamp's respository and refactoring it to either meet a certain set of standards or implement a new technology. 
 
+https://johnnylieu.github.io/refactoring-Homework/
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -16,7 +18,6 @@ In this activity, I am taking an existing html & CSS file from UCSD Coding Bootc
 * Download my "Develop" folder in its entirety.
 * Using GitBash, navigate to this folder on your desktop.
 * Use command "code .." in GitBash without the quatations.
-* visit https://johnnylieu.github.io/refactoring-Homework/ to view finished product.
 
 ## Usage
 
